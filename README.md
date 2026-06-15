@@ -1,2 +1,2 @@
 # Head-First-python
-aqui eu coloco tudo que estou aprendendo e aplicando no meu livro "head first python"
+<!-- Here I put everything I'm learning and applying from my book "Head First Python". -->
