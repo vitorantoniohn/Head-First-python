@@ -22,8 +22,8 @@ No momento, finalizei apenas os estudos do **Capítulo 1**, então a estrutura d
 
 Atualmente, estou no começo da minha jornada e finalizei apenas o primeiro capítulo. Conforme eu for avançando na leitura, vou marcando os próximos capítulos com um "X"!
 
-- [x] **Capítulo 1:** Introdução (Concluído! ✅)
-- [ ] **Capítulo 2:** (Em breve...)
+- [x] **Capítulo 1:** Começando a codificar: Encontrando seu caminho (Concluído! ✅)
+- [x] **Capítulo 2:** Cada String tem o seu lugar (Concluído! ✅)
 - [ ] **Capítulo 3:** (A estudar)
 - [ ] **Capítulo 4:** (A estudar)
 - [ ] **Capítulo 5:** (A estudar)
