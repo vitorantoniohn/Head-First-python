@@ -1,4 +1,4 @@
-# 🧠 Estudos: Use a Cabeça! Programação
+2# 🧠 Estudos: Use a Cabeça! Programação
 
 Bem-vindo ao repositório dedicado aos meus estudos do livro **"Use a Cabeça! Programação"** (Série *Head First*). 
 Aqui eu documento toda a minha jornada de aprendizado, organizando os códigos, resolvendo os desafios e criando os projetos propostos a cada capítulo.
@@ -24,7 +24,7 @@ Atualmente, estou no começo da minha jornada e finalizei apenas o primeiro cap�
 
 - [x] **Capítulo 1:** Começando a codificar: Encontrando seu caminho (Concluído! ✅)
 - [x] **Capítulo 2:** Cada String tem o seu lugar (Concluído! ✅)
-- [ ] **Capítulo 3:** (A estudar)
+- [x] **Capítulo 3:** Sejamos Organizados (Strings)  (Concluído! ✅)
 - [ ] **Capítulo 4:** (A estudar)
 - [ ] **Capítulo 5:** (A estudar)
 - [ ] **Capítulo 6:** (A estudar)
